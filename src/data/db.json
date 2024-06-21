@@ -1,0 +1,56 @@
+{
+    "motos": [
+        {
+            "id": "m001",
+            "imageUrl": "https://imgs.search.brave.com/O4-xffDYF2hYKD068YCb2ggHpFinxWcmxXrHiFYlv_8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yaWRl/cm1hZ2F6aW5lLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8xMC8yMl9aUjkw/ME5ORk5MXzQwUkJL/M0RSRjFDR19BXzIu/aGlnaF8tMTAyNHg3/NjguanBlZw",
+            "marca": "Kawasaki",
+            "modelo": "Z900rs",
+            "ano": 2020,
+            "preco": 55900
+        },
+        {
+            "id": "m002",
+            "imageUrl": "https://imgs.search.brave.com/6aJr6pH4NASLZ1eMgVDJY_vYmmIgYfqBJ04TCulT2tI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2ph/Y29uc29yY2lvYm13/LmNvbS5ici8vL21l/ZGlhL2JlbnMvMTAv/MjUvbW90by1ibXct/Zy0zMTAtZ3MuanBn",
+            "marca": "Bmw",
+            "modelo": "Gs 310",
+            "ano": 2020,
+            "preco": 29900
+        }
+    ],
+    "usadas": [
+        {
+            "id": "u001",
+            "imageUrl": "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2024/202404/20240418/honda-nxr-160-bros-esdd-wmimagem18441534566.webp?s=fill&w=1920&h=1440&q=75",
+            "marca": "Honda",
+            "modelo": "NXR 160 BROS ESDD",
+            "ano": 2020,
+            "preco": 18950,
+            "quilometragem": 87595
+        },
+        {
+            "id": "u002",
+            "imageUrl": "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2023/202306/20230612/honda-biz-125i-wmimagem12572799277.jpg?s=fill&w=1920&h=1440&q=75",
+            "marca": "Honda",
+            "modelo": "BIZ 125i",
+            "ano": 2020,
+            "preco": 14800,
+            "quilometragem": 22000
+        }
+    ],
+    "pecas": [
+        {
+            "id": "p001",
+            "imageUrl": "https://imgs.search.brave.com/2Od9DKxrZZLB9UyMXXOBlKcNGYWXsDupUNjvVjMaPQM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudGNkbi5jb20u/YnIvaW1nL2ltZ19w/cm9kLzk5MTY1NS8x/ODBfcGFyYWxhbWFf/ZGlhbnRfY2dfMTI1/XzE1MF8xNjBfZmFu/X3RpdGFuXzE0XzE2/X3Nfc3Vwb3J0ZV8x/MjYzXzFfMThhNWI5/MTY3YmExZGM0M2Vh/ZjI3OTQ2OTgyOGJj/MjUucG5n",
+            "nome": "Paralama Diant",
+            "preco": 41.99,
+            "modelos": "Moto Cg 125 Titan Fan"
+        },
+        {
+            "id": "p002",
+            "imageUrl": "https://imgs.search.brave.com/gNIh0skAn6ZZUXLhn3f0QwEby5NKrmG3GixdqlsnLM0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFZWVdiWkNCTEwu/anBn",
+            "nome": "Capacete Moto Feminino/masculino",
+            "preco": 169.5,
+            "modelos": "Pro Tork Viseira Fumê"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Lista{ 
+    background-color: #fff;
+    border: 1px solid #ddd;
+    flex-direction: row;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    transition: transform 0.2s;
+
+    &:hover{
+        transform: translateY(-10px);
+    }
+}
+.Pes{
+    font-size: 1em;
+    color: #666;
+    margin: 10px 0;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 0 0 10px;
+}
